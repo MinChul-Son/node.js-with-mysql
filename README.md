@@ -1,1 +1,1 @@
-# node.js-with-mysql
+# 생활코딩님의 강의를 보며 기초적인 HTML과 Node.js를 연동하였습니다.
